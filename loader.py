@@ -18,7 +18,7 @@ def load_strips(folder_path):
         for strip in sorted(sub_dir.iterdir()):
             date = strip.stem[:10]
             name = strip.stem[11:]
-            print(name, date)
+            #print(name, date)
 
             yield {
                 "date": date,
@@ -26,8 +26,8 @@ def load_strips(folder_path):
                 "image": load_image(strip)
             }
 
-strips = load_strips("dilbert_1989_to_2023")
+# strips = load_strips("dilbert_1989_to_2023")
 
-for strip in strips:
-    print(strip)
-    break
+# for strip in strips:
+#     print(strip)
+#     break
