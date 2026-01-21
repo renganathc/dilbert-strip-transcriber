@@ -18,10 +18,9 @@ def line_to_region(white_lines):
     regions.append(region)
     return regions
 
-def split(img):
+def horizontal_split(img):
     img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     h, w = img_gray.shape
-
     white_lines = []
 
     for i in range(h):
@@ -29,18 +28,35 @@ def split(img):
         for j in range(w):
             if img_gray[i][j] > 220:
                 white_pixels += 1
-        if white_pixels/w > 0.998:
+        if white_pixels/w > 0.997:
             white_lines.append(i)
         
-    print("blank regions: ", line_to_region(white_lines))
+    print("blank regions (horizontal): ", line_to_region(white_lines))
+    return line_to_region(white_lines)
+    
+def vertical_split(img):
+    img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    h, w = img_gray.shape
+    white_lines = []
 
-    cv2.imshow("comic strip", img_gray)
-    cv2.waitKey(0)
+    for j in range(w):
+        white_pixels = 0
+        for i in list(range(3*h//20)) + list(range(19*h//20, h)):
+            if img_gray[i][j] > 230:
+                white_pixels += 1
+        if white_pixels/(0.20*h) > 0.99:
+            white_lines.append(j)
+        
+    print("blank regions (vertical): ", line_to_region(white_lines))
+    return line_to_region(white_lines)
 
 
 strips = load_strips("dilbert_1989_to_2023")
 
 for strip in strips:
     image = strip["image"]
-    split(image)
+    horizontal_split(image)
+    vertical_split(image)
+    cv2.imshow("comic strip", image)
+    cv2.waitKey(0)
     # press any key to iterate through the imaegs and see blan k regions
