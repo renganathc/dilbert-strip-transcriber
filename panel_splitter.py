@@ -81,12 +81,12 @@ def panelizer(strip):
 
 
 
-strips = load_strips("dilbert_1989_to_2023")
+# strips = load_strips("dilbert_1989_to_2023")
 
-for strip in strips:
-    print(strip["date"])
-    panels = panelizer(strip)
-    for i in range(len(panels)):
-        cv2.imshow(str(i), panels[i])
-        cv2.waitKey(300)
-    cv2.waitKey(0)
+# for strip in strips:
+#     print(strip["date"])
+#     panels = panelizer(strip)
+#     for i in range(len(panels)):
+#         cv2.imshow(str(i), panels[i])
+#         cv2.waitKey(300)
+#     cv2.waitKey(0)

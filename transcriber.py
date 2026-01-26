@@ -28,15 +28,23 @@ Output Format:
 
 Image Analysis:"""
 
+# simpler prompt to avoid overwhelming the model
+prompt2 = """Transcribe this Dilbert panel. 
+Link each speech bubble to the correct character by following the tail.
+Format: [Name]: [Dialogue]"""
+
 strips = load_strips("dilbert_1989_to_2023")
 for strip in strips:
+    print('\n_________________________________________\nDate:', strip['date'])
     image = strip["image"]
     panels = panelizer(strip)
-    for image in panels:
+    for idx, image in enumerate(panels):
+        print('\nPanel', idx + 1)
         _, buffer = cv2.imencode(".png", image)
         response = ollama.chat(
-        model='qwen2.5vl',
+        #model='qwen2.5vl',
         #model='llama3.2-vision',
+        model='blaifa/InternVL3_5:8b',
         options={'temperature': 0},
         messages=[{
             'role': 'user',
