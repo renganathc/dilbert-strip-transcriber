@@ -11,14 +11,14 @@ prompt = """Role: You are a specialized OCR transcription engine for comics.
 
 Context: This is a comic panel.
 
-Dilbert: Guy wearing a red and black tie.
-Dogbert: The white dog.
-Other: Any other character
+Dilbert is the guy wearing a red and black tie.
+Dogbert is the white dog.
+For any other character whose name is unknown just say unknown.
 
 Task: Transcribe ONLY the dialogue spoken by characters.
 
 Rules:
-Do NOT summarize the plot.
+Do NOT summarize the plot. If nothing is spoken in the whole image say '<No conversation>'
 Do NOT describe the characters' emotions (e.g., "grumpy").
 Only pick up text in speech bubbles.
 Determine which character said the text by following where the tail near the text points to.
@@ -38,9 +38,10 @@ for strip in strips:
     print('\n_________________________________________\nDate:', strip['date'])
     image = strip["image"]
     panels = panelizer(strip)
-    for idx, image in enumerate(panels):
+    for idx, panel in enumerate(panels):
+        resized_image = cv2.resize(panel, None, fx=0.7, fy=0.7, interpolation=cv2.INTER_AREA)
         print('\nPanel', idx + 1)
-        _, buffer = cv2.imencode(".png", image)
+        _, buffer = cv2.imencode(".png", resized_image)
         response = ollama.chat(
         #model='qwen2.5vl',
         #model='llama3.2-vision',
