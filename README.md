@@ -2,18 +2,15 @@
 Work-in-progress project to transcribe Dilbert comic strips using local models...
 
 Current progress:
-- Collected strips from the Internet Archive (1989–2023)
+- Collected strips from Internet Archive (1989–2023)
 - Implemented whitespace based panel splitting using OpenCV
+- Passed compressed images through a Vision Language Model and extracted transcribed outputs
 
-## Example
+## Examples
 
-**Original strip**
+![Transcribed Output](readme_images/transcribed_output1.png)
 
-![Dilbert strip](readme_images/sample_strip.png)
-
-**Panels after splitting**
-
-![Split panels](readme_images/sample_panels.png)
+![Transcribed Output](readme_images/transcribed_output2.png)
 
 Next steps:
-- Integrate local OCR and add character presence and speaker logic
+- Compare accuracy figures for different models and make a tabular analysis.
