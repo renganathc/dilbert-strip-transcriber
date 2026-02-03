@@ -7,10 +7,10 @@ PANEL 1:
 DILBERT: I'M GRUMPY TODAY, SO DON'T EVEN TRY TO TALK TO ME. 
 
 PANEL 2:
-DOG BERT: AND DON'T TRY TO FLATTER ME. I'D GIVE YOU CHOCOLATE CAKE TO MAKE ME FEEL BETTER.
+DOGBERT: AND DON'T TRY TO FLATTER ME. I'D GIVE ME CHOCOLATE CAKE TO MAKE ME FEEL BETTER.
 
 PANEL 3:
-DILBERT: AND I GUESS I SHOULD SCRAITCH YOUR BRINDLE BETWEEN THE EARS UNTIL YOU HAVE LITTLE LEG SPAMS. RIGHT, NONE OF THAT.
+DILBERT: AND I GUESS I SHOULD SCRAITCH YOUR BRINDLE BETWEEN THE EARS UNTIL YOU HAVE LITTLE LEG SPAMS, NONE OF THAT. RIGHT, NOW WHAT?
 
 
 _________________________________________
@@ -44,16 +44,15 @@ _________________________________________
 Date: 1990-01-04
 
 PANEL 1:
-DILBERT: Welcome to another meeting of the "Skeptics Society".
+[Character Name]: WELCOME TO ANOTHER MEETING OF THE "SKEPTICS SOCIETY".
 
 PANEL 2:
-DOG BERT: Tonight we will use scientific methods to debunk Edna's claim that she can turn an audience into a flock of chickens.
+[BG CHARACTER]: TONIGHT WE WILL USE SCIENTIFIC METHODS TO DEMONSTRATE EDNA GRIEF'S CLAIM THAT SHE CAN TURN AN AUDIENCE INTO A FLOCK OF CHICKENS.
+[DILBERT]: WE'LL NEED SOME VOLUNTEERS.
 
 PANEL 3:
-DOG BERT: We'll need some volunteers...
-
-PANEL 4:
-DOG BERT: Motion to adjourn... who, look at the time!
+[Character Name]: MOTION TO ADJOURN...
+[BG CHARACTER]: WHO, LOOK AT THE TIME!
 
 
 _________________________________________
@@ -77,13 +76,13 @@ PANEL 1:
 DILBERT: DO YOU HAVE SOMETHING FOR A HEADACHE?
 
 PANEL 2:
-DOG BERT: I'M PRETTY SURE THIS WILL DO THE TRICK.
+DOGBERT: I'M PRETTY SURE THIS WILL DO THE TRICK.
 
 PANEL 3:
-DOG BERT: THANKS.
+DILBERT: THANKS.
 
 PANEL 4:
-DOG BERT: I WONDER IF HE MEANT SOME RUD OF A HEADACHE.
+DOGBERT: I WONDER IF HE MEANT SOME RUD OF A HEADACHE.
 
 
 _________________________________________
@@ -96,16 +95,17 @@ PANEL 2:
 DOGBERT: And you're quite certain these three will shrink to fit?
 
 PANEL 3:
-DILBERT: You have my written permission.
+DOGBERT: You have my written permission.
 
 PANEL 4:
-DOGBERT: Where did they go? Did they wash in the washer?
+DILBERT: Where did they go? They're in the wash!
 
 PANEL 5:
-DILBERT: Will they fit now?
+DOGBERT: Will they fit now?
 
 PANEL 6:
-DOGBERT: Like a glove. With a few fingers.
+DILBERT: Like a glove.
+DOGBERT: With it's fingers.
 
 
 _________________________________________
@@ -115,10 +115,10 @@ PANEL 1:
 Dogbert: I've got to get out of this dad mood somehow...
 
 PANEL 2:
-Dogbert: I'll have to do something drastic... like make him feel bad for my previous lies.
+Dogbert: I'll have to do something dumb... and make him plead for my return.
 
 PANEL 3:
-Dogbert: Hi, Dogbert. Is that some kind of an insult?
+Dilbert: Hi, Dogbert. Is that some kind of an insult?
 
 
 _________________________________________
@@ -162,21 +162,20 @@ PANEL 2:
 DOGBERT: (no text)
 
 PANEL 3:
-DOGBERT: I wonder what happens if I fail the written test.
+BACKGROUND CHARACTER: I wonder what happens if I fail the written test.
 
 
 _________________________________________
 Date: 1990-01-12
 
 PANEL 1:
-Dogbert: I'm sorry, but it seems you've failed the written portion of the dog license test.
+Dogbert: I'm sorry, but it seems you've failed the written portion of the dog license test. [Tracing line points to Dogbert]
 
 PANEL 2:
-Dilbert: For example, this question the correct answer is "Mailman". You wrote- IN "FAX MACHINE".
+Dilbert: For example, this question on the correct answer is "Mailman." You wrote "IN FAX MACHINE." [Tracing line points to Dilbert]
 
 PANEL 3:
-Dogbert: How'd it go?
-Dilbert: The department doesn't keep up with emerging trends.
+Dogbert: How'd it go? The department doesn't keep up with emerging trends. [Tracing line points to Dogbert]
 
 
 _________________________________________
@@ -186,13 +185,13 @@ PANEL 1:
 DILBERT: I think it's my fuel pump.
 
 PANEL 2:
-DOG BERT: Your what?
+BACKGROUND CHARACTER: Your what?
 
 PANEL 3:
-DOG BERT: What I mean is I think it's my fuel pump.
+DOGBERT: What I mean is I think it's my fuel pump.
 
 PANEL 4:
-DOG BERT: Well, maybe I didn't say so. Sorry... I forgot where I was.
+DILBERT: Well, maybe I didn't say so loud. Sorry... I forgot where I was.
 
 
 _________________________________________
@@ -202,16 +201,19 @@ PANEL 1:
 DILBERT: You know man, many great films kept DILBERT:
 
 PANEL 2:
-DOG BERT: Not to mention the entire fan club!
+DOGBERT: NOT TO MENTION THE ENTIRE FAN CLUB
 
 PANEL 3:
-DOG BERT: Well, this was both therapeutic and satisfying.
+DILBERT: Well, this was both therapeutic and satisfying.
 
 PANEL 4:
-DOG BERT: Sometimes it's good to break your own rules once in a while.
+DOGBERT: Sometimes it's good to break your own lease, man.
 
 PANEL 5:
-DILBERT: Who the heck is Captain Q.?
+DILBERT: Who the heck is Captain Puddin' ?
+
+PANEL 6:
+DILBERT: (no text)
 
 
 _________________________________________
@@ -243,16 +245,15 @@ PANEL 2:
 DOG BERT: I won't damage the little tykes.
 
 PANEL 3:
-DOG BERT: Day one.
-CHILD: Good morning, children. I'm Mr. Dibbert.
-CHILD: Are you flammable?
+BACKGROUND CHARACTER: Good morning, children. I'm Mr. Dibbert.
+DOG BERT: Are you flammable?
 
 
 _________________________________________
 Date: 1990-01-17
 
 PANEL 1:
-DILBERT: DAY ONE AS A SUBSTITUTE TEACHER. JENKEL! PUT THAT FLAME-THROWER AWAY RIGHT THIS MINUTE!
+DILBERT: DAY ONE AS A SUBSTITUTE TEACHER. JENKLER! PUT THAT FLAME-THROWER AWAY RIGHT THIS MINUTE!
 
 PANEL 2:
 DOG BERT: EUGENE! RELEASE THESE HOSTAGES OR I SHALL BE FORCED TO FLING THIS CHALK ERASER AT YOUR HEAD!
@@ -268,7 +269,7 @@ PANEL 1:
 DILBERT: Okay, class... put your weapons away and open your TV guides.
 
 PANEL 2:
-DOG BERT: Trinty! Please read from "palomar crest" under the Friday listings.
+DOG BERT: Trifty? Please read from "palomar crest" under the Friday listings.
 
 PANEL 3:
 DOG BERT: There's got to be a better way to teach sex education.
@@ -307,22 +308,22 @@ _________________________________________
 Date: 1990-01-21
 
 PANEL 1:
-DILBERT: "Okay, okay."
+DILBERT: "Hey, Mr. Frink! Their the protection of our people?"
 
 PANEL 2:
-DOG BERT: "All I'm asking their the protection of ugly people?"
+DOG BERT: "Okay, call me up and make a donation."
 
 PANEL 3:
-DOG BERT: "We are dedicated to eliminating the stupid as 'sport' and nice."
+DOG BERT: "All I'm asking their the protection of our people?"
 
 PANEL 4:
-DOG BERT: "Okay, call me a donation."
+BACKGROUND CHARACTER: "We are dedicated to eliminating the stupid as 'sport' and nice."
 
 PANEL 5:
-DILBERT: "Thanks, but this is a volunteer shave."
+DILBERT: "Thanks, but this is a volunteer shift. Have"
 
 PANEL 6:
-DOG BERT: "I'll never go to your door main."
+DOG BERT: "I've never going to door main."
 DILBERT: "Didn't he recognize you as his dog?"
 
 
@@ -330,19 +331,16 @@ _________________________________________
 Date: 1990-01-22
 
 PANEL 1:
-Dilbert: ...and Woben have always played hard to get...
+DILBERT: ...AND KNEW THAT I ALWAYS PLAYED HARD TO GET...
 
 PANEL 2:
-Dogbert: Dilbert and Eve
+[Character Name]: (no text)
 
 PANEL 3:
-Eve: I love to, but I don't rave a thing to wear.
+DOGBERT: THEN HOW ABOUT A DATE NEXT YEAR?
 
 PANEL 4:
-Woben: Then now about a date next year?
-
-PANEL 5:
-Dilbert: (no text)
+EVE: I'D LOVE TO, BUT I DON'T HAVE A THING TO WEAR.
 
 
 _________________________________________
@@ -362,7 +360,7 @@ _________________________________________
 Date: 1990-01-24
 
 PANEL 1:
-DILBERT: ...AND THIS DOCTOR GAVE ME JUST A YEAR TO LIVE.
+DILBERT: ...AND THIS DOCTOR GIVE ME JUST A YEAR TO LIVE.
 
 PANEL 2:
 DOG BERT: I'M SORRY, LITTLE GUY... I DON'T KNOW HOW YOU'LL MANAGE WITHOUT ME.
@@ -378,7 +376,7 @@ PANEL 1:
 DILBERT: It seems we had a mix up with your test results. Then I'm not drinking.
 
 PANEL 2:
-DOG BERT: We doctors are amazingly smart, but occasionally we make a little error.
+DOGBERT: We doctors are amazingly smart, but occasionally we make a little error.
 
 PANEL 3:
 DILBERT: Well... I understand.
@@ -408,18 +406,17 @@ PANEL 2:
 DOG BERT: Ah! I expected to tip the maid $399 when we leave.
 
 PANEL 3:
-DILBERT: I could ask a guy at the concierge if I can trust a guy with a French-manning sounding job.
-DOG BERT: And do I have to tip him?
+DOG BERT: I could ask a guy with a conscience if I can trust a guy with a French-mouthing sounding accent. And do I have to tip him? Hmm...
 
 
 _________________________________________
 Date: 1990-01-28
 
 PANEL 1:
-Dogbert: I've got my spreadsheet to conquer em all. Tracking!
+Dogbert: I've got my spreadsheet to conquer em all. Track 'em.
 
 PANEL 2:
-Dogbert: Eve been amortized from credit card?
+Dogbert: Eve been assigned from card to credit?
 
 PANEL 3:
 Dogbert: I'll use this credit history to apply for a loan.
@@ -448,9 +445,7 @@ DOG BERT: So far I have "Don't phone after ten p.m." and... um...
 
 PANEL 3:
 DOG BERT: That's it?
-
-PANEL 4:
-DOG BERT: How about "Don't throw porcupines in a balloon store"?
+DILBERT: How about "Don't throw porcupines in a balloon store"?
 
 
 _________________________________________
@@ -460,27 +455,25 @@ PANEL 1:
 Dogbert: While you were waiting your time at work I came up with a million dollar idea.
 
 PANEL 2:
-Dogbert: This is the "Madonna Applicator" for lonely guys!!
+Dogbert: This is the "Madonna applicator" for lonely guys!!
 
 PANEL 3:
-Dogbert: It looks like Barbie on a stick, but it's Madonna.
-
-PANEL 4:
-Dilbert: I'll take one.
+Dilbert: It looks like Barbie on a stick, but it's Madonna.
+Dogbert: I'll take one.
 
 
 _________________________________________
 Date: 1990-01-31
 
 PANEL 1:
-DILBERT: No, you may not borrow the keys to go cruising. I think we should vote on it. (shook vote)
+[Character Name]: NO, YOU MAY NOT DORIAN THE OK TO GO CRUISING. I THINK WE SHOULD VOTE ON IT.
+[Character Name]: (SMILED)
 
 PANEL 2:
-DOG BERT: D'oh! Heh... okay, but a little means no change on the decision.
-DILBERT: Fair enough.
+[Character Name]: HE-HEN...OKAY BUT A FITTLE MEANS NO CHANGE ON THE DECISION.
 
 PANEL 3:
-DOG BERT: I'm glad he didn't decide to borrow a second record.
+[Character Name]: I'M GLAD HE DIDN'T BECOME A BUNNY.
 
 
 _________________________________________
@@ -490,7 +483,7 @@ PANEL 1:
 DILBERT: ACCORDING TO MY RESEARCH, DOGS ARE EXCEPT FROM HUMAN LAWS,
 
 PANEL 2:
-DOG BERT: THE GREAT PART IS THAT I CAN COMPLY WITH ANY ELITE AND MY OWN IDEAL WOULD BE RESPONSIBLE.
+DOG BERT: THE GREAT PART IS THAT I CAN COMPLY WITH ANY ELITE AND MY OWN IDEAL WOULD FOLLLOW BE RESPONSIBLE.
 
 PANEL 3:
 DOG BERT: I'M HOPEING YOU WON'T TAKE A SELFISH VIEW ABOUT THIS.
@@ -503,10 +496,10 @@ PANEL 1:
 DILBERT: Thanks for asking me out. Would you like to see my operating manual?
 
 PANEL 2:
-DOG BERT: It's all kinds of things, everything from "buying flowers" to "opening doors."
+BACKGROUND CHARACTER: It's all kinds of things, everything from "buying flowers" to "opening doors."
 
 PANEL 3:
-DOG BERT: Looks like yours due to have your jewelry rotated.
+BACKGROUND CHARACTER: Looks like yours due to have your jewelry rotated.
 
 PANEL 4:
 DILBERT: Every thirty days saves money in the long run.
@@ -521,7 +514,7 @@ IN STINGING THE "GREENS"
 
 PANEL 2:
 DOG BERT: IS THAT LIKE THE "QUES"?
-SAME DEAR, JUST NOT SO DARNED DEPRESSING.
+SAFE DEAR, JUST NOT SO DARNED DEPRESSING.
 
 PANEL 3:
 DOG BERT: DOOH... MY CAR NEEDS A TUNE UP AND I OVER-SLEPT TEN MINUTES BAANBEE...
@@ -537,10 +530,12 @@ PANEL 2:
 DOG BERT: I'll resign.
 
 PANEL 3:
-DILBERT: I'll get you a new job. You're not qualified for our social security numbers.
+DILBERT: I'll get an awesome new job to prove our social superiority.
 
 PANEL 4:
-DOG BERT: So it turns out her husband never paid into the system. But she knew that, so I guess there's no interest in me working here.
+DOG BERT: Sorry I don't date guys.
+DOG BERT: So it turns out her unhappy marriage was no big deal. I'm not interested.
+DOG BERT: But she knew that I had a wife, so I suppose there's some interest.
 
 
 _________________________________________
@@ -553,7 +548,7 @@ PANEL 2:
 DILBERT: Must be morning. Is this a work day? Do I have a job? Is it worth getting up for?
 
 PANEL 3:
-DILBERT: "Morning Ateniesia" nature's way of keeping you from waking up screaming.
+DOGBERT: "Morning Apathy" - Nature's way of keeping you from waking up screaming.
 
 
 _________________________________________
@@ -563,7 +558,7 @@ PANEL 1:
 Dogbert: We can't stand hiding around the house anymore!
 
 PANEL 2:
-Dogbert: We disguised ourselves this planet once. Now we just hide in people's houses, pretending to be extinct.
+Background Character: We disguised ourselves this planet once. Now we just hide in people's houses, pretending to be extinct.
 
 PANEL 3:
 Dogbert: Dawn, it's time for our comeback tour.
@@ -579,10 +574,10 @@ PANEL 1:
 Dogbert: We'll kick off the dinosaur comeback tour by singing "Iapy Way."
 
 PANEL 2:
-Dogbert: Then we'll break the instruments, wade into the crowd, and somebody in the front row!
+Dilbert: Then we'll break the instruments, wave 'em to the ground--and somebody in the front row!
 
 PANEL 3:
-Dogbert: "Ozzy Osborne" already did that.
+Background Character: "Ozzy Osborne" already did that.
 
 
 _________________________________________
@@ -592,10 +587,10 @@ PANEL 1:
 DILBERT: ICE CREAM
 
 PANEL 2:
-DOGBERT: LOOK OUT!
+BACKGROUND CHARACTER: LOOK OUT!
 
 PANEL 3:
-DOG: SORRY, FRED. I'VE BEEN REALLY JUNKY EVER SINCE THE ICE AGE CAUGHT ME OFF GUARD.
+BACKGROUND CHARACTER: SORRY, FRED. I'VE BEEN REALLY TINY EVER SINCE THE ICE AGE CAUGHT ME OFF GUARD.
 
 
 _________________________________________
@@ -606,9 +601,9 @@ Dogbert: DOGBERT PERFORMS A SCIENTIFIC TEST OF SO-CALLED "WOMEN'S INTUITION"
 Dilbert: I'M THINKING OF A NUMBER BETWEEN ONE AND TEN.
 
 PANEL 2:
-Dogbert: 5.136294... NO, I'LL SAY THREE.
+Dogbert: 5.136284... NO, I'LL SAY THREE.
 Dilbert: (no text)
 
 PANEL 3:
-Dogbert: WRONG! THE ANSWER IS 5.136294... TO BE HONEST IF YOU'RE REALLY A WOMAN.
+Dogbert: WRONG! THE ANSWER IS 5.136284... TO BE HONEST IF YOU'RE REALLY A WOMAN.
 Dilbert: (no text)

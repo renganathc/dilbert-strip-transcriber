@@ -108,20 +108,26 @@ Remember there is a thick white region thats eperates each panel in the image.
 strips = load_strips("dilbert_1989_to_2023")
 for strip in strips:
     print('\n\n_________________________________________\nDate:', strip['date'])
+    with open("llava_processed.txt", "a", encoding="utf-8") as f:
+        f.write('\n\n_________________________________________\nDate: ' + strip['date'] + '\n')
     image = strip["image"]
-    #panels = panelizer(strip)
+    panels = panelizer(strip)
     #resized_image = cv2.resize(image, None, fx=0.8, fy=0.8, interpolation=cv2.INTER_AREA)
-    _, buffer = cv2.imencode(".png", image)
-    response = ollama.chat(
-    #model='qwen2.5vl',
-    #model='llama3.2-vision',
-    model='blaifa/InternVL3_5:8b',
-    options={'temperature': 0},
-    messages=[{
-        'role': 'user',
-        'content': prompt5,
-        'images': [buffer.tobytes()]
-    }]
-    )
+    for i, panel in enumerate(panels):
+        print("\nPanel", str(i+1) + ':')
+        _, buffer = cv2.imencode(".png", image)
+        response = ollama.chat(
+        model='llava:13b',
+        #model='llama3.2-vision',
+        #model='blaifa/InternVL3_5:8b',
+        options={'temperature': 0},
+        messages=[{
+            'role': 'user',
+            'content': prompt,
+            'images': [buffer.tobytes()]
+        }]
+        )
 
-    print(response['message']['content'])
+        print(response['message']['content'])
+        with open("llava_processed.txt", "a", encoding="utf-8") as f:
+            f.write('\nPanel ' + str(i+1) + ':\n' + response['message']['content'] + '\n')
