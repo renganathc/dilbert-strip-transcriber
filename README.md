@@ -20,6 +20,16 @@ Current progress:
 
 ---
 
+## Accuracy Calculation Rules Used
+
+- Panel Acc = min(#Panels_GT, #Panels_Pred) / max(#Panels_GT, #Panels_Pred)
+- Speaker Acc = #Correct_Speaker_Assignments / #GT_Dialogue_Lines
+- OCR Acc = #Correct_Characters / #GT_Characters
+
+(where GT = Ground Truth, Pred = Predictions)
+
+---
+
 ## Final Evaluation Table - Qwen7B (No Preprocessing)
 
 | Date | Panels (GT/Pred) | Panel Acc | Speaker Acc | OCR Acc |
