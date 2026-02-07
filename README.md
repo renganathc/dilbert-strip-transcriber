@@ -393,9 +393,14 @@ When panelization is **disabled**, the entire comic strip is provided to the mod
 
 ---
 
+## Preprocessing Examples
+
+![Original Strip](readme_images/sample_strip.png)
+
+![Manually Processesed Strip](readme_images/sample_panels.png)
+
+---
 
 ## Transcription Examples
 
 ![Transcribed Output](readme_images/transcribed_output1.png)
-
-![Transcribed Output](readme_images/transcribed_output2.png)
