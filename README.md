@@ -33,6 +33,30 @@ Current progress:
 
 ---
 
+## Panelization (Preprocessing)
+
+In this project, **preprocessing refers exclusively to panelization**.
+
+When panelization is **enabled**, the comic strip is split into individual panels using whitespace-based heuristics before being passed to the Vision-Language Model.
+
+### Panelization Pipeline
+
+1. **Whitespace Detection**  
+   Large horizontal and vertical whitespace gaps are detected using OpenCV to identify panel boundaries.
+
+2. **Panel Bounding Box Extraction**  
+   Each panel is localized as a bounding box in the original strip.
+
+3. **Reading-Order Sorting**  
+   Panels are ordered top-to-bottom, left-to-right.
+
+4. **Panel-wise Inference**  
+   Each panel is passed independently to the model instead of processing the full strip at once.
+
+When panelization is **disabled**, the entire comic strip is provided to the model as a single image.
+
+---
+
 ## Final Evaluation Table - Qwen7B (No Preprocessing)
 
 | Date | Panels (GT/Pred) | Panel Acc | Speaker Acc | OCR Acc |
