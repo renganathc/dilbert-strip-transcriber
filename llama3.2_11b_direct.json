@@ -699,6 +699,83 @@
     }
   },
   {
+    "date": "1990-01-18",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "OKAY, CLASS... PUT YOUR WEAPONS AWAY AND OPEN YOUR TV GUIDES."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "TIMMY, PLEASE READ ALOUD THE PASSAGE FROM 'FALCON CREST' UNDER THE FRIDAY LISTINGS."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "TIMMY",
+              "text": "THERE'S GOT TO BE A BETTER WAY TO TEACH SEX EDUCATION."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-19",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "HOW WAS YOUR FIRST DAY AS A SUBSTITUTE SCHOOL TEACHER?"
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "IMAGINE FEELING COMPLETELY POWERLESS... LIKE A MARBLE STATUE..."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "GOSH... THAT SOUNDS PRETTY BAD."
+            }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "NOW IMAGINE THE BIGGEST FLOCK OF PIGEONS YOU EVER SAW..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "date": "1990-01-20",
     "prediction": {
       "panels": [
@@ -812,6 +889,40 @@
             {
               "speaker": "EVE",
               "text": "I'D LOVE TO, BUT I DON'T HAVE A THING TO WEAR."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-23",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "Doctor",
+              "text": "Normally I'd give you six months to live."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "Doctor",
+              "text": "But we're having a '50% off sale' today, so I'll give you a full year for the same price."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "Doctor",
+              "text": "And you get an extra ten days if you pay cash!"
             }
           ]
         }
