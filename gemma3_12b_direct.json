@@ -1,0 +1,1285 @@
+[
+  {
+    "date": "1990-01-01",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I\u2019M GRUMPY TODAY,\nSO DON\u2019T EVEN TRY\nTO TALK TO ME."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DOGBERT",
+              "text": "AND DON\u2019T TRY TO FLATTER\nME OR GIVE ME CHOCOLATE\nCAKE TO MAKE ME FEEL\nBETTER."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "AND I GUESS I SHOULDN\u2019T\nSCRATCH YOU BEHIND THE\nEARS UNTIL YOU HAVE\nLITTLE LEG SPASMS.\nRIGHT. NONE\nOF THAT."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-02",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I'M STARTING TO\nWRITE AN\nUNAUTHORIZED\nBIOGRAPHY\nABOUT YOU."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DOGBERT",
+              "text": "IT'S KIND OF A \u201cPET\nAND TELL\u201d EXPOS\u00c9\nFULL OF STARTLING\nREVELATIONS."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "WHO WOULD BE\nSTARTLED BY\nMY LIFE ?"
+            }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            {
+              "speaker": "DOGBERT",
+              "text": "I THINK YOU\nWILL BE."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-03",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "ARE YOU REALLY GOING THROUGH WITH THE UNAUTHORIZED BIOGRAPHY OF ME ?"
+            },
+            {
+              "speaker": "DILBERT",
+              "text": "YES."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I\u2019M UP TO THE PART WHERE JACKIE O\u2019 AND LIZ TAYLOR FIGHT A DUEL FOR YOUR LOVE."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "TRAGICALLY, NEITHER ARE AWARE THAT YOU\u2019RE CARRYING STEVE GARVEY\u2019S BABY !"
+            },
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "TAP\nTAP\nTAP"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-04",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "WELCOME TO ANOTHER MEETING OF THE \u201cSKEPTICS SOCIETY.\u201d"
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "TONIGHT WE WILL USE SCIENTIFIC METHODS TO DEBUNK EDNA \nGRIFFIN\u2019S CLAIM THAT SHE CAN\nTURN AN AUDIENCE INTO A\nFLOCK OF CHICKENS."
+            },
+            {
+              "speaker": "DOGBERT",
+              "text": "WE\u2019LL NEED\nSOME VOLUN-\nTEERS..."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "MOTION TO\nADJOURN\u2026"
+            },
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "WHOA, LOOK\nAT THE TIME!"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-05",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "GOOD NEWS: THE \u201cALL-YOU-CAN-EAT \u201cSALAD BAR JOINT JUST DECIDED TO STAY OPEN TWENTY-FOUR HOURS A DAY!"
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "WE CAN GET A TABLE BY THE WINDOW AND LIVE THERE FOR THE REST OF OUR LIVES \u2013 FOR ONLY $5.95 APIECE !"
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "HOW WOULD WE BATHE ?"
+            },
+            {
+              "speaker": "DILBERT",
+              "text": "THEY HAVE LITTLE \u201cMOIST TOWELETTE.\u201d"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-06",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "DO YOU HAVE\nSOMETHING FOR\nA HEADACHE ?"
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "I\u2019M PRETTY SURE\nTHIS WILL DO\nthe TRICK."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "THANKS."
+            },
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "I WONDER IF\nHE MEANT SOME-\nTHING TO GET\nRID OF A\nHEADACHE.\nNAH..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-07",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "OPEN"
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "...AND YOU\u2019RE\nQUITE CERTAIN\nTHESE WILL\nSHRINK TO FIT?"
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "YOU HAVE MY\nWORD AS A\nRETAIL SALES-\nMAN."
+            }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "YOU WERE\nTAKEN.\nIN THE\nWASH."
+            }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "NO, THEY\nSHRINK\nIN THE\nWASH."
+            }
+          ]
+        },
+        {
+          "panel_number": 6,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "WILL THEY\nFIT NOW?"
+            }
+          ]
+        },
+        {
+          "panel_number": 7,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "LIKE A\nGLOVE..."
+            }
+          ]
+        },
+        {
+          "panel_number": 8,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "LIKE A\nGLOVE\nWITH TWO FINGERS."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-08",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I'VE GOT TO GET OUT OF THIS BAD MOOD SOMEHOW."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I'LL HAVE TO FIND SOMEBODY INNOCENT TO BLAME\u2026"
+            },
+            {
+              "speaker": "DOGBERT",
+              "text": "\u2026AND MAKE HIM PLEAD FOR MY FORGIVENESS."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "HI, DOGBERT."
+            },
+            {
+              "speaker": "DOGBERT",
+              "text": "IS THAT SOME KIND OF AN INSULT?"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-09",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DOGBERT",
+              "text": "I CAN FEEL THE\nSTATIC ELECTRICITY\nBUILDING..."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "SHUFFLE"
+            },
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "SHUFFLE"
+            },
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "SHUFFLE"
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I MOST CERTAINLY\nWILL NOT CALL YOU\n\"THOR, DOG OF\nTHUNDER.\"\nPREPARE TO DIE ."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-10",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "MAYBE SINCE YOU'RE\nFULL OF STATIC ELECTRIC-\nITY, YOU SHOULD\nSAY \"IT IS USELESS\nTO BE A RESISTOR.\" \nHEE-HEE."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "ZZZZZ"
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DOGBERT",
+              "text": "NOTHING ANNOYS\nTHE \u201cDOG OF\nTHUNDER\u201d QUITE\nAS MUCH AS\nNERD PUNS."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-11",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "LET\u2019S GO\u2026IT\u2019S TIME TO RENEW YOUR DOG LICENSE."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": []
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DOGBERT",
+              "text": "I WONDER WHAT HAPPENS IF I FAIL THE WRITTEN TEST?"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-12",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I\u2019M SORRY, BUT IT SEEMS YOU\u2019VE FAILED THE WRITTEN PORTION OF THE DOG LICENSE TEST."
+            },
+            {
+              "speaker": "DOGBERT",
+              "text": "IMPOSSIBLE!"
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "FOR EXAMPLE, THIS QUESTION ON \u201cNATURAL ENEMIES\u201d: THE CORRECT ANSWER IS \u201cMAILMAN.\u201d YOU WROTE-IN \u201cFAX MACHINE.\u201d"
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "HOW\u2019D IT GO ?"
+            },
+            {
+              "speaker": "DOGBERT",
+              "text": "THE \u201cDEPARTMENT OF DOGS\u201d DOES NOT KEEP UP WITH EMERGING TRENDS."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-13",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I THINK IT\u2019S MY FUEL PUMP."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "YOUR WHAT?"
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "WHAT I MEAN IS I THINK IT\u2019S MY \n@!#* FUEL PUMP."
+            }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "WELL, WHY DIDN\u2019T YOU JUST #$&@* SAY SO?"
+            }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "SORRY... I FORGOT WHERE I WAS."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-14",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "YOU KNOW, MANY GREAT MEN KEPT DIARIES."
+            },
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "NOT TO MENTION THE ENTIRE KIRK CAMERON FAN CLUB."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": []
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "WELL, THIS WAS BOTH THERAPEUTIC AND SATISFYING."
+            }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "SOMETIMES IT\u2019S GOOD TO BARE YOUR SOUL LIKE THAT."
+            }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "WHO THE HECK IS KIRK CAMERON ?"
+            }
+          ]
+        },
+        {
+          "panel_number": 6,
+          "dialogue": []
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-15",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I GOT A JOB AS\nA SUBSTITUTE\nSCHOOL TEACHER."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DOGBERT",
+              "text": "YOU AREN\u2019T\nQUALIFIED TO\nBE A TEACHER.\nYOU\u2019RE A DOG."
+            },
+            {
+              "speaker": "DOGBERT",
+              "text": "LITTLE KIDS\nWON\u2019T KNOW THE\nDIFFERENCE."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "YOU DO REMIND\nME A BIT OF MY\nFOURTH GRADE\nTEACHER."
+            },
+            {
+              "speaker": "DILBERT",
+              "text": "JUST A\nCOINCIDENCE?"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-16",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "CAN\u2019T I TALK YOU OUT OF BECOMING A SUBSTITUTE TEACHER?"
+            },
+            {
+              "speaker": "DILBERT",
+              "text": "DON\u2019T WORRY."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DOGBERT",
+              "text": "I WON\u2019T DAMAGE THE LITTLE TYKES."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DOGBERT",
+              "text": "GOOD MORNING, CHILDREN. I\u2019M MR. DOGBERT."
+            },
+            {
+              "speaker": "DOGBERT",
+              "text": "ARE YOU FLAMMABLE?"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-17",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "JENNIFER! PUT THAT FLAME-THROWER AWAY RIGHT THIS MINUTE!"
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "EUGENE! RELEASE THOSE HOSTAGES OR I SHALL BE FORCED TO FLING THIS CHALK ERASER AT YOUR HEAD!"
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "IS THAT A \u201cSTINGER\u201d MISSILE LAUNCHER ? WELL, I HOPE YOU BROUGHT ENOUGH FOR EVERYBODY !"
+            },
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "I DID."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-18",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "OKAY, CLASS... PUT YOUR WEAPONS AWAY AND OPEN YOUR TV GUIDES."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "TIMMY, PLEASE READ ALOUD THE PASSAGE FROM \"FALCON CREST\" UNDER THE FRIDAY LISTINGS."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "THERE'S GOT TO BE A BETTER WAY TO TEACH SEX EDUCATION."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-19",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "HOW WAS YOUR FIRST DAY AS A SUBSTITUTE SCHOOL TEACHER?"
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "IMAGINE FEELING COMPLETELY POWER- LESS... LIKE A MARBLE STATUE..."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "GOSH... THAT SOUNDS PRETTY BAD."
+            },
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "NOW IMAGINE THE BIGGEST FLOCK OF PIGEONS YOU EVER SAW..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-20",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I THINK I\u2019M LOSING MY HAIR."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DOGBERT",
+              "text": "DON\u2019T BE SILLY. YOU AREN\u2019T LOSING YOUR HAIR."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I\u2019M NOT? OH, GOOD."
+            },
+            {
+              "speaker": "DOGBERT",
+              "text": "HOW COULD YOU POSSIBLY LOSE THESE HUGE CLUMPS..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-21",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "KNOCK\nKNOCK"
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "HI. I\u2019M FROM THE\n\"ORGANIZATION FOR\nThe PROTECTION\nOF UGLY PEOPLE.\""
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "WE ARE DEDICATED TO\nELIMINATING THE\nSTEREOTYPE OF UGLY\nPEOPLE AS \u201cSMART\u201d\nAND \u201cNICE.\u201d"
+            }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "OKAY, I\u2019LL\nMAKE A\nDONATION."
+            }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "THANKS, BUT THIS IS\nA MEMBERSHIP DRIVE..."
+            }
+          ]
+        },
+        {
+          "panel_number": 6,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I\u2019M NEVER\nGOING TO\nANSWER THE\nDOOR AGAIN."
+            }
+          ]
+        },
+        {
+          "panel_number": 7,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "DIDN\u2019T HE RECOGNIZE\nYOU AS HIS GOD?"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-22",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "...AND WOMEN HAVE ALWAYS PLAYED HARD TO GET..."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "THEN HOW ABOUT A DATE NEXT YEAR?"
+            },
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "I'D LOVE TO, BUT I DON'T HAVE A THING TO WEAR."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-23",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DOGBERT",
+              "text": "NORMALLY I\u2019D\nGIVE YOU SIX\nMONTHS TO\nLIVE."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "BUT WE\u2019RE HAVING A\n\u201c50% OFF SALE\u201d TODAY,\nSO I\u2019LL GIVE YOU A\nFULL YEAR FOR THE\nSAME PRICE."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "AND YOU GET AN\nEXTRA TEN DAYS\nIF YOU PAY CASH!"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-24",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "...AND THE DOCTOR\nGAVE ME JUST A\nYEAR TO LIVE."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I'M SORRY, LITTLE\nGUY... I DON'T\nKNOW HOW YOU'LL\nMANAGE WITH-\nOUT ME."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DOGBERT",
+              "text": "WOULD IT BE TOO\nMUCH TROUBLE TO\nPANT THE HOUSE\nBEFORE YOU GO?"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-25",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "IT SEEMS WE HAD\nA MIX-UP WITH\nYOUR TEST RESULTS."
+            },
+            {
+              "speaker": "DILBERT",
+              "text": "THEN I\u2019M\nNOT DYING?"
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "WE DOCTORS ARE\nAMAZINGLY SMART,\nBUT OCCASIONALLY\nWE MAKE A LITTLE\nERROR."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "WELL\u2026I\nUNDERSTAND. BY THE WAY,\nYOUR PAP\nSMEAR WAS\nNORMAL."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-26",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "BY MY CALCULATIONS,\nWE CAN MAKE MILLIONS\nBY COMBINING A\nMORTUARY BUSINESS\nAND A GARBAGE\nCOLLECTION BUSINESS."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "OUR CUSTOMERS COULD\nSIMPLY LEAVE THE\nDEARLY DEPARTED BY\nthe CURB FOR PICK-UP."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "MAYBE WE COULD\nADD PIZZA\nDELIVERY, TOO."
+            },
+            {
+              "speaker": "DILBERT",
+              "text": "LET'S NOT\nPUSH A GOOD\nIDEA TOO FAR."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-27",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I HATE FANCY HOTELS LIKE THIS..."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "AM I EXPECTED TO TIP THE MAID WHEN I LEAVE?"
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I COULD ASK THAT CONCIERGE GUY..."
+            },
+            {
+              "speaker": "DILBERT",
+              "text": "CAN I TRUST A GUY WITH A FRENCH-SOUNDING JOB?"
+            },
+            {
+              "speaker": "DILBERT",
+              "text": "...AND DO I HAVE TO TIP HIM?"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-28",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "HA HA HA!\nMY SCHEME TO\nCONQUER EARTH\nIS RIGHT ON\nTRACK!"
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I\u2019VE BEEN\nAPPROVED FOR\nA MACYS CREDIT\nCARD!"
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I\u2019LL USE THIS\nCREDIT HISTORY\nTO APPLY FOR\nVISA AND\nMASTER CARD."
+            }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "SOON I\u2019LL HAVE CREDIT\nCARDS FROM EVERY\nBANK IN THE WORLD."
+            }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "THEN I\u2019LL DO A CASH ADVANCE\nON EVERY CARD, NETTING\nBILLIONS TO FORM A WORLD-\nWIDE LOTTERY PRIZE."
+            }
+          ]
+        },
+        {
+          "panel_number": 6,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "AND EVERYBODY WHO\nSUPPORTS ME AS\nSUPREME RULER OF\nEARTH GETS ONE FREE\nLOTTERY TICKET."
+            }
+          ]
+        },
+        {
+          "panel_number": 7,
+          "dialogue": [
+            {
+              "speaker": "DOGBERT",
+              "text": "YOU KNOW, MOST\nDOGS WOULD BE\nDELIGHTED JUST\nTO GET A NICE\nCHEW-TOY."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-29",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I\u2019VE DECIDED TO\nWRITE DOWN ALL\nOF THE SO-CALLED\n\u201cUNWRITTEN RULES.\u201d"
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "SO FAR I HAVE \u201cDON\u2019T\nPHONE AFTER TEN P.M.\u201d\nAND\u2026 UH\u2026"
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "THAT\u2019S\nIT?"
+            },
+            {
+              "speaker": "DILBERT",
+              "text": "HOW ABOUT\n\u201cDON\u2019T THROW\nPORCUPINES IN\nA BALLOON\nSTORE\u201d?"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-30",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "WHILE YOU WERE WASTING YOUR TIME AT WORK I"
+            },
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "CAME UP WITH A MILLION DOLLAR IDEA."
+            },
+            {
+              "speaker": "DOGBERT",
+              "text": "IT'S \u201cMADONNA, Inc."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "IT\u2019S THE \u201cMADONNA SUN TAN LOTION APPLICATOR\u201d FOR LONELY GUYS !!"
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "I\u2019LL TAKE ONE."
+            },
+            {
+              "speaker": "BACKGROUND CHARACTER",
+              "text": "IT LOOKS LIKE BARBIE ON A STICK, BUT IT\u2019S MADONNA."
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
