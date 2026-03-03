@@ -1,0 +1,272 @@
+[
+  {
+    "date": "1990-01-01",
+    "scores": {
+      "word_accuracy": 24,
+      "speaker_accuracy": 16,
+      "panel_structure": 15,
+      "hallucination": 14
+    }
+  },
+  {
+    "date": "1990-01-02",
+    "scores": {
+      "word_accuracy": 30,
+      "speaker_accuracy": 16,
+      "panel_structure": 10,
+      "hallucination": 12
+    }
+  },
+  {
+    "date": "1990-01-03",
+    "scores": {
+      "word_accuracy": 36,
+      "speaker_accuracy": 12,
+      "panel_structure": 10,
+      "hallucination": 14
+    }
+  },
+  {
+    "date": "1990-01-04",
+    "scores": {
+      "word_accuracy": 36,
+      "speaker_accuracy": 15,
+      "panel_structure": 15,
+      "hallucination": 14
+    }
+  },
+  {
+    "date": "1990-01-05",
+    "scores": {
+      "word_accuracy": 24,
+      "speaker_accuracy": 8,
+      "panel_structure": 10,
+      "hallucination": 14
+    }
+  },
+  {
+    "date": "1990-01-06",
+    "scores": {
+      "word_accuracy": 24,
+      "speaker_accuracy": 8,
+      "panel_structure": 10,
+      "hallucination": 12
+    }
+  },
+  {
+    "date": "1990-01-07",
+    "scores": {
+      "word_accuracy": 24,
+      "speaker_accuracy": 0,
+      "panel_structure": 5,
+      "hallucination": 10
+    }
+  },
+  {
+    "date": "1990-01-08",
+    "scores": {
+      "word_accuracy": 30,
+      "speaker_accuracy": 16,
+      "panel_structure": 10,
+      "hallucination": 14
+    }
+  },
+  {
+    "date": "1990-01-09",
+    "scores": {
+      "word_accuracy": 30,
+      "speaker_accuracy": 10,
+      "panel_structure": 10,
+      "hallucination": 14
+    }
+  },
+  {
+    "date": "1990-01-10",
+    "scores": {
+      "word_accuracy": 40,
+      "speaker_accuracy": 10,
+      "panel_structure": 15,
+      "hallucination": 14
+    }
+  },
+  {
+    "date": "1990-01-11",
+    "scores": {
+      "word_accuracy": 40,
+      "speaker_accuracy": 25,
+      "panel_structure": 20,
+      "hallucination": 15
+    }
+  },
+  {
+    "date": "1990-01-12",
+    "scores": {
+      "word_accuracy": 35,
+      "speaker_accuracy": 16,
+      "panel_structure": 18,
+      "hallucination": 15
+    }
+  },
+  {
+    "date": "1990-01-13",
+    "scores": {
+      "word_accuracy": 30,
+      "speaker_accuracy": 16,
+      "panel_structure": 10,
+      "hallucination": 15
+    }
+  },
+  {
+    "date": "1990-01-14",
+    "scores": {
+      "word_accuracy": 36,
+      "speaker_accuracy": 16,
+      "panel_structure": 10,
+      "hallucination": 15
+    }
+  },
+  {
+    "date": "1990-01-15",
+    "scores": {
+      "word_accuracy": 30,
+      "speaker_accuracy": 16,
+      "panel_structure": 15,
+      "hallucination": 15
+    }
+  },
+  {
+    "date": "1990-01-16",
+    "scores": {
+      "word_accuracy": 37,
+      "speaker_accuracy": 17,
+      "panel_structure": 18,
+      "hallucination": 14
+    }
+  },
+  {
+    "date": "1990-01-17",
+    "scores": {
+      "word_accuracy": 30,
+      "speaker_accuracy": 0,
+      "panel_structure": 15,
+      "hallucination": 14
+    }
+  },
+  {
+    "date": "1990-01-18",
+    "scores": {
+      "word_accuracy": 40,
+      "speaker_accuracy": 0,
+      "panel_structure": 10,
+      "hallucination": 14
+    }
+  },
+  {
+    "date": "1990-01-19",
+    "scores": {
+      "word_accuracy": 35,
+      "speaker_accuracy": 0,
+      "panel_structure": 10,
+      "hallucination": 12
+    }
+  },
+  {
+    "date": "1990-01-20",
+    "scores": {
+      "word_accuracy": 40,
+      "speaker_accuracy": 25,
+      "panel_structure": 20,
+      "hallucination": 15
+    }
+  },
+  {
+    "date": "1990-01-21",
+    "scores": {
+      "word_accuracy": 30,
+      "speaker_accuracy": 20,
+      "panel_structure": 10,
+      "hallucination": 14
+    }
+  },
+  {
+    "date": "1990-01-22",
+    "scores": {
+      "word_accuracy": 40,
+      "speaker_accuracy": 25,
+      "panel_structure": 20,
+      "hallucination": 15
+    }
+  },
+  {
+    "date": "1990-01-23",
+    "scores": {
+      "word_accuracy": 30,
+      "speaker_accuracy": 16,
+      "panel_structure": 18,
+      "hallucination": 14
+    }
+  },
+  {
+    "date": "1990-01-24",
+    "scores": {
+      "word_accuracy": 36,
+      "speaker_accuracy": 25,
+      "panel_structure": 20,
+      "hallucination": 14
+    }
+  },
+  {
+    "date": "1990-01-25",
+    "scores": {
+      "word_accuracy": 30,
+      "speaker_accuracy": 20,
+      "panel_structure": 20,
+      "hallucination": 15
+    }
+  },
+  {
+    "date": "1990-01-26",
+    "scores": {
+      "word_accuracy": 24,
+      "speaker_accuracy": 12,
+      "panel_structure": 14,
+      "hallucination": 14
+    }
+  },
+  {
+    "date": "1990-01-27",
+    "scores": {
+      "word_accuracy": 40,
+      "speaker_accuracy": 25,
+      "panel_structure": 20,
+      "hallucination": 15
+    }
+  },
+  {
+    "date": "1990-01-28",
+    "scores": {
+      "word_accuracy": 30,
+      "speaker_accuracy": 0,
+      "panel_structure": 0,
+      "hallucination": 12
+    }
+  },
+  {
+    "date": "1990-01-29",
+    "scores": {
+      "word_accuracy": 24,
+      "speaker_accuracy": 8,
+      "panel_structure": 10,
+      "hallucination": 14
+    }
+  },
+  {
+    "date": "1990-01-30",
+    "scores": {
+      "word_accuracy": 30,
+      "speaker_accuracy": 0,
+      "panel_structure": 6,
+      "hallucination": 12
+    }
+  }
+]
