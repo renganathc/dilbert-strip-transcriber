@@ -1,0 +1,1170 @@
+[
+  {
+    "date": "1990-01-01",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I'm grumpy today to talk to me and don't try to cheer me up afterward." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "And don't you dare try to fly before you give me a little love first." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I can't believe you said that." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "What? You don't have the name of your dog on your shirt yet?" }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-02",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I'm starting to think that maybe it would be nice to have a full-time job doing something I enjoy." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "It's kind of a letdown when you realize that the only thing you're good at is drawing." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Will you be my agent?" }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "No, I don't think so." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-03",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I'm up to my neck in work." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "But I'm not complaining, because I love what I do." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "You're a specialized comic transcription engine." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Yes, you are." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-04",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Welcome to the Skeptic's Society! Tonight we will use science to debunk Edgar Allan Poe's claim that he can predict the future." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "I have a better idea. Let's use my crystal ball to predict the time of day." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "That's not science, Dogbert. We need something more scientific." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Okay, how about we use a Ouija board to communicate with the dead?" }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-05",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Good news you can't get a table by just asking for one." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Now would we we said 'for the rest of our lives – twenty-four hours a day!'" }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "That's what I meant." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Toilet paper?" }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-06",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Do you know what I'm doing here?" }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I'm pretty sure this is some kind of trick." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Thanks, I wonder if there's something in it for me too." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "BACKGROUND CHARACTER", "text": "No, just you." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-07",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I'm not sure what I'm doing here." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "You are at Babe's Closet Classy Clothes." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Oh, right. I was looking for a new suit." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "BACKGROUND CHARACTER", "text": "I like your current suit." }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Thanks. It's comfortable and functional." }
+          ]
+        },
+        {
+          "panel_number": 6,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Functional is good, but you should also consider style." }
+          ]
+        },
+        {
+          "panel_number": 7,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I don't think I have a 'style.'" }
+          ]
+        },
+        {
+          "panel_number": 8,
+          "dialogue": [
+            { "speaker": "BACKGROUND CHARACTER", "text": "You have a very understated style." }
+          ]
+        },
+        {
+          "panel_number": 9,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Understated is good. It means I won't be noticed at parties." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-08",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I've got to get out of this doghouse!" }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I can't believe I let my dog talk me into this." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "It's not that bad, Dilbert. At least you have a blanket to sleep on." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Yeah, but it's still humiliating. I can't believe I let my dog talk me into this." }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Hey, Dilbert, you know what they say about people who sleep outside?" }
+          ]
+        },
+        {
+          "panel_number": 6,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "No, Dogbert, what do they say?" }
+          ]
+        },
+        {
+          "panel_number": 7,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "They say it's good for the soul." }
+          ]
+        },
+        {
+          "panel_number": 8,
+          "dialogue": []
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-09",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I can feel the static electricity building up inside me." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "If I don't let it out, it will not only kill me but also Dogbert!" }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": []
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "So simple. Just open the window and let the lightning strike." }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "It's a win-win situation. I get to die, and Dogbert gets to live!" }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-10",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I'm not sure what you mean by \"full of state.\" Could you explain?" }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Well, Dilbert, it means that a person is very full of themselves and their own importance. They think they are the center of the universe and everyone should revolve around them." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Oh, I see. So you're saying that if someone is \"full of state,\" they might be difficult to work with?" }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Yes, Dilbert, that's exactly what I mean. It can make them hard to get along with and not very cooperative in a team setting." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-11",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "It's time to renew your dog's license." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I wonder what it costs this year." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "$50, plus a $25 processing fee." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "That seems expensive." }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "It's not my fault you don't know how to use the internet." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-12",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Sorry, but I don't know how to do that." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Forget it. It's not worth the effort of dealing with the bureaucracy of the doghouse." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "But what if I just want to get in?" }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "How do you think I got out of there? I didn't keep up with the latest technology." }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": []
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-13",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I think it's your turn to pump gas." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "What?! That's what I said last time!" }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Well, what did you say?" }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I said \"I think it's your turn to pump gas.\"" }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Sorry, that was last time." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-14",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "You know what I hate about this job?" }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "It's not to do with my personal life, it's just that I don't like working here." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Not to mention the fact that you're a terrible boss." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "That's true. But at least I have a job." }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "And it's not like I'm going to get fired for being incompetent." }
+          ]
+        },
+        {
+          "panel_number": 6,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "You think?" }
+          ]
+        },
+        {
+          "panel_number": 7,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "No, I don't think so. But hey, at least I have a job." }
+          ]
+        },
+        {
+          "panel_number": 8,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "And it's not like I'm going to get fired for being incompetent." }
+          ]
+        },
+        {
+          "panel_number": 9,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "You know what they say about people who think that way?" }
+          ]
+        },
+        {
+          "panel_number": 10,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "What do they say?" }
+          ]
+        },
+        {
+          "panel_number": 11,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "They're in denial." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-15",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "You know what? I got a dog as a school teacher." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "You aren't a teacher, you're just a dog." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "But I can do the job just as well as any human." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "No, you can't. Teaching requires knowledge and experience." }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "But I know more than a fourth grader!" }
+          ]
+        },
+        {
+          "panel_number": 6,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "That doesn't mean you can teach. It just means you're not as dumb as a fourth grader." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-16",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I can't stand your voice. It sounds like you're trying to sell me something." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "I won't apologize for being a good salesman." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "You don't understand, Dogbert. The little kid likes it when I talk like this." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Are you saying that the child is incapable of making his own decisions?" }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "No, no, not at all. It's just that he likes it when I talk like this." }
+          ]
+        },
+        {
+          "panel_number": 6,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "That's a very convenient excuse for your poor salesmanship." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-17",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I'm not sure what I did to deserve this." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "But it looks like I'm about to get a promotion!" }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "You're going to be the new CEO of the company?" }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Yes, that's right! It's just what I needed." }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Well, good luck with that. You'll need it." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-18",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Okay class, put your TV guides and open your textbooks." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Today we're going to learn about sex education." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Thanks, I got to do that at home with my girlfriend." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Well, Dogbert, you can teach us something useful instead." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-19",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "How was your first day at school?" }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "I imagine telling my classmates about my new pet rock..." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "...and then they all laugh and call me a dork." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Yeah, that's pretty much how it went down." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-20",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I think I'm going bald." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Don't be silly, you're not bald." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "But I can't stop thinking about it." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "You're just being paranoid." }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Maybe you're right, but how do I know if I'm not?" }
+          ]
+        },
+        {
+          "panel_number": 6,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "How could you possibly know that?" }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-21",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I'm from the organization that helps people with ugly names." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Thanks, but I don't need a membership drive to get my name out there." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "You should be more proactive about your image. People are talking about you behind your back." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I don't care what people say when I'm not around." }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "But what if they're saying something nice?" }
+          ]
+        },
+        {
+          "panel_number": 6,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Then I'll thank them for their kind words and buy them a drink." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-22",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I love my job and life." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "And women have always played hard to get..." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "...so I don't have anything to wear." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "So you love your job and life, huh?" }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Yes." }
+          ]
+        },
+        {
+          "panel_number": 6,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "And women play hard to get..." }
+          ]
+        },
+        {
+          "panel_number": 7,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "...so you don't have anything to wear." }
+          ]
+        },
+        {
+          "panel_number": 8,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "That's right." }
+          ]
+        },
+        {
+          "panel_number": 9,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "So, what are you wearing?" }
+          ]
+        },
+        {
+          "panel_number": 10,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Nothing." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-23",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Normally I'd say we have to live with it for months." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "But you got me a full year of free health insurance!" }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "And you gave me a raise!" }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "So I'm not going to pay cash for this." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-24",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "And the doctors gave me just a little something to help me sleep." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I'm sorry, I didn't mean to fall asleep at my desk." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Don't worry about it. It happens all the time." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Yeah, but don't you think I should be more careful with my sleeping pills?" }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-25",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "It seems we've had some sort of error." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "But don't worry, we doctors are trained to handle these things." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "We make a little mistake and then we fix it." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "You pay us for our expertise." }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "It's not like you're dying or anything." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-26",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I'm not sure what we can do to make millions of dollars." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Our customers could use a better way to dispose of their trash." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Why don't we start a garbage collection service?" }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "That sounds like a good idea. Let's do it!" }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-27",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I hate fancy parties!" }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "At least I don't have to worry about what to wear!" }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "You look like you just got back from a party." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Yeah, I was at a party and someone spilled beer on me." }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "But don't worry, I have a spare shirt in my bag!" }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-28",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I've been thinking about how to make money on my credit card." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I'll use this card to buy things I don't need and then sell them online for a profit!" }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "But what if you get caught?" }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Don't worry, Dogbert. I'll use a fake name and address to avoid detection." }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "And what about the credit card company? They might not be happy with you using their card for illegal activities." }
+          ]
+        },
+        {
+          "panel_number": 6,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Oh, I'll just tell them it was a mistake and they'll forgive me. Besides, I'll have enough money to pay off any fines or penalties." }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-29",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "I'm not sure what you mean by \"it.\" Can you be more specific?" }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "That's it! You don't have a dog in your life." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "Oh, now I get it. It's not that I don't have a dog; it's just that I don't have a balloon in my life." }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "Well, you can buy one at the store." }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": []
+        }
+      ]
+    }
+  },
+  {
+    "date": "1990-01-30",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "It's the \"monotonous monotony\" of my life at work." }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "While you were gone, I was thinking about how to make up for lost time." }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "You know what they say about making up for lost time?" }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            { "speaker": "DILBERT", "text": "No, what do they say?" }
+          ]
+        },
+        {
+          "panel_number": 5,
+          "dialogue": [
+            { "speaker": "DOGBERT", "text": "It's like trying to catch up with a stick." }
+          ]
+        }
+      ]
+    }
+  }
+]
