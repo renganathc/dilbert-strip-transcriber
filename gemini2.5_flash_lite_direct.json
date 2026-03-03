@@ -47,10 +47,6 @@
             {
               "speaker": "DOGBERT",
               "text": "I'M STARTING TO WRITE AN UNAUTHORIZED BIOGRAPHY ABOUT YOU."
-            },
-            {
-              "speaker": "DILBERT",
-              "text": ")"
             }
           ]
         },
@@ -60,10 +56,6 @@
             {
               "speaker": "DOGBERT",
               "text": "IT'S KIND OF A \"PET AND TELL\" EXPOS\u00c9 FULL OF STARTLING REVELATIONS."
-            },
-            {
-              "speaker": "DILBERT",
-              "text": ")"
             }
           ]
         },
@@ -410,10 +402,6 @@
             {
               "speaker": "DILBERT",
               "text": "PREPARE TO DIE."
-            },
-            {
-              "speaker": "DOGBERT",
-              "text": "("
             }
           ]
         }

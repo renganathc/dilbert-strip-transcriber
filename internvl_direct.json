@@ -61,10 +61,12 @@
             {
               "speaker": "DILBERT",
               "text": "WHO WOULD BE STARTLED BY MY LIFE?"
+            },
+            {
+              "speaker": "DOG BERT",
+              "text": "I THINK YOU WILL BE."
             }
-          ],
-          "speaker": "DOG BERT",
-          "text": "I THINK YOU WILL BE."
+          ]
         }
       ]
     }

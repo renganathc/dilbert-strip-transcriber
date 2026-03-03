@@ -290,36 +290,38 @@
     }
   },
   {
-    "date": "1990-01-08",
-    "prediction": [
-      {
-        "panel_number": 1,
-        "dialogue": [
-          {
-            "speaker": "DOGBERT",
-            "text": "I'VE GOT TO GET OUT OF THIS BAD MOOD SOMEHOW."
-          }
-        ]
-      },
-      {
-        "panel_number": 2,
-        "dialogue": [
-          {
-            "speaker": "DOGBERT",
-            "text": "I'LL HAVE TO FIND SOME BODY INNOCENT TO BLAME... AND MAKE HIM PLEAD FOR MY FORGIVENESS."
-          }
-        ]
-      },
-      {
-        "panel_number": 3,
-        "dialogue": [
-          {
-            "speaker": "DILBERT",
-            "text": "HI, DOGBERT."
-          }
-        ]
-      }
-    ]
+  "date": "1990-01-08",
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DOGBERT",
+              "text": "I'VE GOT TO GET OUT OF THIS BAD MOOD SOMEHOW."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DOGBERT",
+              "text": "I'LL HAVE TO FIND SOME BODY INNOCENT TO BLAME... AND MAKE HIM PLEAD FOR MY FORGIVENESS."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "HI, DOGBERT."
+            }
+          ]
+        }
+      ]
+    }
   },
   {
     "date": "1990-01-09",
@@ -443,35 +445,37 @@
   },
   {
     "date": "1990-01-12",
-    "prediction": [
-      {
-        "panel_number": 1,
-        "dialogue": [
-          {
-            "speaker": "DILBERT",
-            "text": "I'M SORRY, BUT IT SEEMS YOU'VE FAILED THE WRITTEN PORTION OF THE DOG LICENSE TEST."
-          }
-        ]
-      },
-      {
-        "panel_number": 2,
-        "dialogue": [
-          {
-            "speaker": "DILBERT",
-            "text": "FOR EXAMPLE, THIS QUESTION ON \"NATURAL ENEMIES\": THE CORRECT ANSWER IS \"MAILMAN.\" YOU WROTE IN \"FAX MACHINE.\""
-          }
-        ]
-      },
-      {
-        "panel_number": 3,
-        "dialogue": [
-          {
-            "speaker": "DILBERT",
-            "text": "HOW'D IT GO ?"
-          }
-        ]
-      }
-    ]
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I'M SORRY, BUT IT SEEMS YOU'VE FAILED THE WRITTEN PORTION OF THE DOG LICENSE TEST."
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "FOR EXAMPLE, THIS QUESTION ON \"NATURAL ENEMIES\": THE CORRECT ANSWER IS \"MAILMAN.\" YOU WROTE IN \"FAX MACHINE.\""
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "HOW'D IT GO ?"
+            }
+          ]
+        }
+      ]
+    }
   },
   {
     "date": "1990-01-13",
@@ -1142,44 +1146,46 @@
   },
   {
     "date": "1990-01-29",
-    "prediction": [
-      {
-        "panel_number": 1,
-        "dialogue": [
-          {
-            "speaker": "DILBERT",
-            "text": "I'VE DECIDED TO WRITE DOWN ALL OF THE SO-CALLED \"UNWRITTEN RULES.\""
-          }
-        ]
-      },
-      {
-        "panel_number": 2,
-        "dialogue": [
-          {
-            "speaker": "DILBERT",
-            "text": "SO FAR I HAVE \"DON'T PHONE AFTER TEN P.M.\" AND...UH..."
-          }
-        ]
-      },
-      {
-        "panel_number": 3,
-        "dialogue": [
-          {
-            "speaker": "DILBERT",
-            "text": "THAT'S IT?"
-          }
-        ]
-      },
-      {
-        "panel_number": 4,
-        "dialogue": [
-          {
-            "speaker": "DILBERT",
-            "text": "HOW ABOUT \"DON'T THROW PORCUPINES IN A BALLOON STORE\"?"
-          }
-        ]
-      }
-    ]
+    "prediction": {
+      "panels": [
+        {
+          "panel_number": 1,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "I'VE DECIDED TO WRITE DOWN ALL OF THE SO-CALLED \"UNWRITTEN RULES.\""
+            }
+          ]
+        },
+        {
+          "panel_number": 2,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "SO FAR I HAVE \"DON'T PHONE AFTER TEN P.M.\" AND...UH..."
+            }
+          ]
+        },
+        {
+          "panel_number": 3,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "THAT'S IT?"
+            }
+          ]
+        },
+        {
+          "panel_number": 4,
+          "dialogue": [
+            {
+              "speaker": "DILBERT",
+              "text": "HOW ABOUT \"DON'T THROW PORCUPINES IN A BALLOON STORE\"?"
+            }
+          ]
+        }
+      ]
+    }
   },
   {
     "date": "1990-01-30",
