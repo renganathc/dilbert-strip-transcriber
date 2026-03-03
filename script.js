@@ -1,7 +1,3 @@
-/* ===========================
-   CONFIG
-=========================== */
-
 const modelOrder = [
   "qwen3_32b",
   "gemini2.5_flash_lite",
@@ -17,30 +13,29 @@ let transcriptsData = {};
 let aggregatedData = [];
 let currentSort = { key: "total", asc: false };
 
-/* ===========================
-   COLOR SCALE
-=========================== */
-
 function colorize(value, max) {
   const ratio = value / max;
   const bg = d3.interpolateRdYlGn(ratio);
-  const text = ratio > 0.6 ? "white" : "black";
-  return `background-color:${bg};color:${text};`;
-}
 
-/* ===========================
-   LOAD DATA
-=========================== */
+  // TEXT COLOR RULE:
+  // White only if 81% and above
+  const text = ratio >= 0.81 ? "white" : "black";
+
+  return `
+    background-color:${bg};
+    color:${text};
+    font-weight:600;
+    border:2px solid #2e333b;
+  `;
+}
 
 async function loadData() {
 
-  // Load evaluation score files
   for (const model of modelOrder) {
     const res = await fetch(`evaluation_results/${model}.json`);
     modelsData[model] = await res.json();
   }
 
-  // Load transcript files (_direct.json)
   for (const model of modelOrder) {
     const res = await fetch(`${model}_direct.json`);
     transcriptsData[model] = await res.json();
@@ -51,10 +46,6 @@ async function loadData() {
   renderStripLeaderboard();
   renderModelTables();
 }
-
-/* ===========================
-   AGGREGATED TABLE
-=========================== */
 
 function computeAggregates() {
   aggregatedData = modelOrder.map(model => {
@@ -104,7 +95,7 @@ function renderAggregatedTable() {
   });
 
   let html = `
-    <table class="table table-bordered text-center">
+    <table class="table table-bordered text-center fw-semibold">
       <thead>
         <tr>
           <th class="sortable" onclick="sortAggregated('name')">Model ${getSortIcon("name")}</th>
@@ -135,16 +126,12 @@ function renderAggregatedTable() {
   document.getElementById("aggregatedTable").innerHTML = html;
 }
 
-/* ===========================
-   PER STRIP LEADERBOARD
-=========================== */
-
 function renderStripLeaderboard() {
 
   const dates = modelsData[modelOrder[0]].map(d => d.date);
 
   let html = `
-    <table class="table table-bordered text-center">
+    <table class="table table-bordered text-center fw-semibold">
       <thead>
         <tr>
           <th>Date</th>
@@ -180,7 +167,7 @@ function renderStripLeaderboard() {
     html += `
       <td style="${colorize(avg, 100)}"><strong>${avg.toFixed(1)}%</strong></td>
       <td>
-        <button class="btn btn-sm btn-outline-secondary"
+        <button class="btn btn-primary fw-bold"
           onclick="openDetails('${date}')">
           Details
         </button>
@@ -193,37 +180,24 @@ function renderStripLeaderboard() {
   document.getElementById("stripLeaderboard").innerHTML = html;
 }
 
-/* ===========================
-   DETAILS MODAL
-=========================== */
-
 window.openDetails = function (date) {
 
   document.getElementById("detailModalTitle").innerText = `Strip: ${date}`;
 
-  // Set image path (year extracted from date)
   const year = date.split("-")[0];
-  const imagePath = `dilbert_1989_to_2023/${year}/${date}`;
-
-  // Since filename contains extra text after date,
-  // we just use pattern matching with wildcard style:
-  // Browser will resolve exact filename if correct.
-  // So we attempt to load using prefix logic:
 
   document.getElementById("modalImage").src =
-    `dilbert_1989_to_2023/${year}/${date}.gif`;
+    `strip_previews/${year}/${date}.gif`;
 
-  // Render transcripts
   let html = "";
 
   modelOrder.forEach(model => {
 
     const entry = transcriptsData[model].find(d => d.date === date);
-
     if (!entry) return;
 
     html += `<div class="transcript-block">
-      <h6>${model}</h6>`;
+      <h6 class="fw-bold">${model}</h6>`;
 
     entry.prediction.panels.forEach(panel => {
       html += `<div><strong>Panel ${panel.panel_number}</strong></div>`;
@@ -241,10 +215,6 @@ window.openDetails = function (date) {
   modal.show();
 };
 
-/* ===========================
-   SECTION C
-=========================== */
-
 function renderModelTables() {
 
   let html = "";
@@ -255,9 +225,9 @@ function renderModelTables() {
 
     html += `
       <div class="card mb-4">
-        <div class="card-header">${model}</div>
+        <div class="card-header model-title">${model}</div>
         <div class="card-body p-0">
-          <table class="table table-bordered text-center mb-0">
+          <table class="table table-bordered text-center fw-semibold mb-0">
             <thead>
               <tr>
                 <th>Date</th>
@@ -297,7 +267,7 @@ function renderModelTables() {
           </tbody>
           </table>
           <div class="p-3 text-center">
-            <button class="btn btn-outline-secondary"
+            <button class="btn btn-outline-secondary fw-bold"
               onclick="toggleRows(this)">
               Show More
             </button>
@@ -317,9 +287,5 @@ window.toggleRows = function (btn) {
   });
   btn.innerText = btn.innerText === "Show More" ? "Show Less" : "Show More";
 };
-
-/* ===========================
-   INIT
-=========================== */
 
 loadData();

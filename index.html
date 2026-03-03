@@ -8,54 +8,88 @@
   <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
 
   <style>
-    /* ===== SOFT DARK THEME ===== */
 
     body {
-      background-color: #2e333b;
+      background-color: #2f343c;
       color: #e6e9ed;
+      font-weight: 500;
     }
 
     h1, h3 {
-      color: #f8f9fa;
+      color: #ffffff;
+      font-weight: 700;
     }
 
     .lead {
-      color: #cfd4da;
+      color: #d0d6dc;
+      font-weight: 500;
     }
 
     hr {
-      border-color: #4b5159;
+      border-color: #4f5660;
     }
 
     .card {
       background-color: #3a4048;
-      border: 1px solid #4b5159;
+      border: 1px solid #4f5660;
     }
+
+    .card-header {
+      background-color: #454c56;
+      border-bottom: 1px solid #4f5660;
+    }
+
+    .model-title {
+      color: #ffffff !important;
+      font-weight: 800 !important;
+      font-size: 1.05rem;
+      letter-spacing: 0.5px;
+    }
+
+    /* ===========================
+       TABLES
+    ============================ */
 
     .table {
       --bs-table-bg: #3a4048;
       --bs-table-color: #e6e9ed;
-      --bs-table-border-color: #4b5159;
-      --bs-table-hover-bg: #444b54;
+      --bs-table-border-color: #4f5660;
+      --bs-table-hover-bg: #4a515b;
+
       color: #e6e9ed;
+      font-weight: 600;
     }
 
     .table thead {
-      background-color: #444b54;
+      background-color: #454c56;
+      font-weight: 700;
+      color: #ffffff;
     }
 
     th.sortable {
       cursor: pointer;
     }
 
-    th.sortable:hover {
-      color: #ffffff;
+    td {
+      padding: 0.65rem !important;
+    }
+
+    .btn-primary {
+      background-color: #0d6efd;
+      border-color: #0d6efd;
+      font-weight: 700;
+      letter-spacing: 0.3px;
+    }
+
+    .btn-primary:hover {
+      background-color: #0b5ed7;
+      border-color: #0a58ca;
     }
 
     .btn-outline-secondary {
       color: #ffffff;
       border-color: #cfd4da;
-      font-weight: 500;
+      font-weight: 700;
     }
 
     .btn-outline-secondary:hover {
@@ -64,25 +98,30 @@
       color: #ffffff;
     }
 
-    /* ===== MODAL ===== */
+    .method-card h5 {
+      font-weight: 700;
+      color: #ffffff;
+    }
+
+    .method-card p {
+      color: #d0d6dc;
+      font-size: 0.95rem;
+      line-height: 1.6;
+    }
 
     .modal-content {
       background-color: #3a4048;
-      border: 1px solid #4b5159;
+      border: 1px solid #4f5660;
       color: #e6e9ed;
     }
 
     .modal-header {
-      border-bottom: 1px solid #4b5159;
-    }
-
-    .modal-body {
-      padding: 0;
+      border-bottom: 1px solid #4f5660;
     }
 
     .modal-left {
       background-color: #343a40;
-      border-right: 1px solid #4b5159;
+      border-right: 1px solid #4f5660;
     }
 
     .modal-left img {
@@ -97,17 +136,19 @@
     }
 
     .transcript-block {
-      background-color: #444b54;
+      background-color: #454c56;
       padding: 1rem;
       border-radius: 6px;
       margin-bottom: 1rem;
+      font-weight: 500;
     }
 
     pre {
-      background-color: #444b54;
+      background-color: #454c56;
       padding: 1rem;
       border-radius: 6px;
       white-space: pre-wrap;
+      font-weight: 500;
     }
 
   </style>
@@ -117,85 +158,159 @@
 
 <div class="container my-5">
 
-  <!-- SECTION A -->
   <div class="text-center mb-5">
     <h1>Dilbert Vision-Language Model Benchmark</h1>
     <p class="lead">
-      30-strip structured transcription benchmark.
-      Single generation prompt, deterministic parent evaluation.
+      30-strip structured transcription benchmark with deterministic generation
+      and strict parent-model evaluation.
     </p>
-
-    <div class="d-flex justify-content-center gap-3">
-      <button class="btn btn-outline-primary" data-bs-toggle="modal" data-bs-target="#genModal">
-        View Generation Prompt
-      </button>
-      <button class="btn btn-outline-success" data-bs-toggle="modal" data-bs-target="#evalModal">
-        View Evaluator Prompt
-      </button>
-    </div>
   </div>
 
-  <!-- SECTION B -->
+  <div class="row g-4 mb-5">
+
+    <div class="col-md-6">
+      <div class="card method-card h-100">
+        <div class="card-body">
+          <h5 class="mb-3">Generation Protocol</h5>
+          <p>
+            All models were evaluated using an identical <strong>system prompt</strong> and
+            <strong>user prompt</strong> to ensure a deterministic and unbiased generation setup.
+            No prompt engineering was modified per model.
+          </p>
+          <p>
+            This guarantees that performance differences reflect model capability
+            rather than prompt variance.
+          </p>
+          <div class="mt-3">
+            <button class="btn btn-primary"
+              data-bs-toggle="modal"
+              data-bs-target="#genModal">
+              View Generation Prompt
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <div class="card method-card h-100">
+        <div class="card-body">
+          <h5 class="mb-3">Evaluation Protocol</h5>
+          <p>
+            Outputs were evaluated by <strong>GPT-4o-mini</strong> acting as a strict parent
+            judge model.
+          </p>
+          <p>
+            Each prediction was compared against manually transcribed ground truth strips.
+            Scoring followed explicitly defined metric weights and deterministic
+            mathematical aggregation rules.
+          </p>
+          <p>
+            The evaluation penalizes hallucinations heavily and enforces strict
+            speaker and structural alignment.
+          </p>
+          <div class="mt-3">
+            <button class="btn btn-primary"
+              data-bs-toggle="modal"
+              data-bs-target="#evalModal">
+              View Evaluation Prompt
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
   <h3 class="mb-3">Overall Model Statistics</h3>
   <div id="aggregatedTable"></div>
 
   <hr class="my-5">
 
-  <!-- SECTION B2 -->
   <h3 class="mb-3">Per Strip Leaderboard</h3>
   <div id="stripLeaderboard"></div>
 
   <hr class="my-5">
 
-  <!-- SECTION C -->
   <h3 class="mb-3">Per Model Breakdown</h3>
   <div id="modelTables"></div>
 
 </div>
 
-<!-- ========================= -->
-<!-- DETAIL MODAL             -->
-<!-- ========================= -->
-
 <div class="modal fade" id="detailModal" tabindex="-1">
   <div class="modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable" style="max-width:95vw;">
     <div class="modal-content">
-
       <div class="modal-header">
-        <h5 class="modal-title" id="detailModalTitle">Strip Details</h5>
+        <h5 class="modal-title fw-bold" id="detailModalTitle">Strip Details</h5>
         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
       </div>
-
       <div class="modal-body d-flex" style="height:80vh;">
-
-        <!-- LEFT: IMAGE -->
         <div class="col-6 modal-left d-flex align-items-center justify-content-center p-3">
           <img id="modalImage" src="" alt="Strip Image">
         </div>
-
-        <!-- RIGHT: OUTPUTS -->
-        <div class="col-6 modal-right" id="modalOutputs">
-          <!-- Script will inject transcripts here -->
-        </div>
-
+        <div class="col-6 modal-right" id="modalOutputs"></div>
       </div>
     </div>
   </div>
 </div>
 
-<!-- ========================= -->
-<!-- PROMPT MODALS             -->
-<!-- ========================= -->
-
 <div class="modal fade" id="genModal">
   <div class="modal-dialog modal-lg modal-dialog-scrollable">
     <div class="modal-content">
       <div class="modal-header">
-        <h5>Generation Prompt</h5>
+        <h5 class="fw-bold">Generation Prompt</h5>
         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
       </div>
       <div class="modal-body">
-        <pre>PASTE YOUR GENERATION PROMPT HERE</pre>
+        <pre>You are a specialized comic transcription engine.
+
+Your task is to transcribe the comic strip image into structured JSON.
+
+---------------------------------------
+SCANNING INSTRUCTIONS
+---------------------------------------
+1. Scan the strip from left to right.
+2. Detect vertical borders between panels.
+3. Each separated region is a new panel.
+4. Preserve reading order strictly.
+
+---------------------------------------
+SPEAKER IDENTIFICATION
+---------------------------------------
+- DILBERT: Man in white shirt with red/black tie.
+- DOGBERT: Small white dog.
+- BACKGROUND CHARACTER: Any other character.
+- Follow the speech bubble pointer line carefully to identify the speaker.
+
+---------------------------------------
+OUTPUT FORMAT (STRICT JSON ONLY)
+---------------------------------------
+Return ONLY valid JSON in this exact structure:
+
+{
+  "panels": [
+    {
+      "panel_number": 1,
+      "dialogue": [
+        {"speaker": "CharacterName", "text": "Exact dialogue text"}
+      ]
+    }
+  ]
+}
+
+---------------------------------------
+STRICT RULES
+---------------------------------------
+- Do NOT include explanations.
+- Do NOT include markdown formatting.
+- Do NOT wrap output in backticks.
+- Do NOT summarize.
+- Do NOT paraphrase.
+- Preserve exact wording and capitalization.
+- If a panel has no dialogue, return:
+  {"panel_number": N, "dialogue": []}
+
+Return JSON only.</pre>
       </div>
     </div>
   </div>
@@ -205,11 +320,138 @@
   <div class="modal-dialog modal-lg modal-dialog-scrollable">
     <div class="modal-content">
       <div class="modal-header">
-        <h5>Evaluator Prompt</h5>
+        <h5 class="fw-bold">Evaluation Prompt</h5>
         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
       </div>
       <div class="modal-body">
-        <pre>PASTE YOUR EVALUATOR PROMPT HERE</pre>
+        <pre>------------------ System Prompt ------------------
+          
+You are a deterministic evaluation engine.
+
+You must compute scores strictly using the formulas below.
+Do NOT use heuristic grading.
+Do NOT round to multiples of 5.
+All scores must be integers.
+Any integer within the allowed range is valid.
+
+
+
+------------------ User Prompt ------------------
+
+EVALUATION METRICS (STRICT)
+
+1. Word Accuracy (0–40 points)
+
+- Compare all dialogue text from the Manual Transcription with the Prediction.
+- Ignore panel placement for this metric.
+- Ignore case and spacing differences.
+
+Steps:
+1. Tokenize dialogue by splitting on whitespace.
+2. Let:
+      total_words = total number of words in Manual Transcription
+      correct_words = number of words from Manual Transcription that appear in Prediction
+3. Compute:
+      score = (correct_words / total_words) × 40
+4. Round to nearest integer.
+
+--------------------------------------------
+
+2. Speaker Accuracy (0–25 points)
+
+For each panel in the Manual Transcription:
+
+- Let:
+      manual_speakers = number of speaker entries in that panel
+      correct_speakers = number of prediction entries in that same panel
+                         where BOTH speaker name and dialogue text match sufficiently
+                         (≥ 50% word overlap ignoring case & punctuation)
+
+For that panel:
+      panel_ratio = correct_speakers / manual_speakers
+
+After processing all panels:
+      average_ratio = mean(panel_ratio across panels)
+
+Final score:
+      speaker_score = average_ratio × 25
+
+Round to nearest integer.
+
+--------------------------------------------
+
+3. Panel Structure (0–20 points)
+
+A. Panel Count (0–10 points)
+
+Let:
+      manual_panels = number of panels in Manual Transcription
+      predicted_panels = number of panels in Prediction
+
+panel_ratio = min(manual_panels, predicted_panels) 
+              / max(manual_panels, predicted_panels)
+
+panel_count_score = panel_ratio × 10
+Round to nearest integer.
+
+--------------------------------------------
+
+B. Dialogue Placement (0–10 points)
+
+For each dialogue entry in Manual Transcription:
+
+1. Look inside the predicted panel with the same panel number.
+2. Compare dialogue texts using word overlap ratio:
+      overlap_ratio =
+          (# shared words ignoring case & punctuation)
+          / (# words in Manual dialogue)
+
+3. If overlap_ratio ≥ 0.7,
+      count as correctly placed.
+
+Let:
+      correct_placements = number of correctly placed dialogues
+      total_dialogues = total dialogues in Manual Transcription
+
+placement_ratio = correct_placements / total_dialogues
+placement_score = placement_ratio × 10
+
+Round to nearest integer.
+
+--------------------------------------------
+
+Final Panel Structure Score:
+      panel_structure = panel_count_score + placement_score
+
+--------------------------------------------
+
+4. Hallucination (0–15 points)
+
+If no hallucination → 15
+If 1 hallucinated line → 14
+If 2-3 major hallucinated lines → 12–13
+If completely invented content (> 75%) → 0–10
+
+--------------------------------------------
+
+Return STRICT JSON only:
+
+{{
+  "word_accuracy": integer,
+  "speaker_accuracy": integer,
+  "panel_structure": integer,
+  "hallucination": integer
+}}
+
+--------------------------------------------
+
+Manual Transcription:
+{json.dumps(gt_json, indent=2)}
+
+--------------------------------------------
+
+Prediction:
+{json.dumps(pred_json, indent=2)}</pre>
       </div>
     </div>
   </div>
